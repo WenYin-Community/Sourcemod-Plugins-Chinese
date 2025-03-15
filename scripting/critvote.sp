@@ -45,11 +45,11 @@ public Handle_VoteMenu(Handle:menu, MenuAction:action, param1, param2)
 		if (param1 == 0)
 		{
 			ServerCommand("tf_weapon_criticals 0");
-			PrintToChatAll("\x04[\x03TF2-Critvote\x04]\x01 暴击已禁用")
+			PrintToChatAll("\x04[\x03TF2-Critvote\x04]\x01 随机暴击已禁用")
 		}
 		else
 		{
-			PrintToChatAll("\x04[\x03TF2-Critvote\x04]\x01 暴击已启用")
+			PrintToChatAll("\x04[\x03TF2-Critvote\x04]\x01 随机暴击已启用")
 			ServerCommand("tf_weapon_criticals 1");
 		}
 	}
@@ -63,7 +63,7 @@ DoVoteMenu()
 	}
  
 	new Handle:menu = CreateMenu(Handle_VoteMenu)
-	SetMenuTitle(menu, "是否禁用暴击?")
+	SetMenuTitle(menu, "是否禁用随机暴击?")
 	AddMenuItem(menu, "yes", "是")
 	AddMenuItem(menu, "no", "否")
 	SetMenuExitButton(menu, false)
