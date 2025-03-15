@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"Prefix"
+	{
+		"en"		"[Info] "
+		"chi"		"[admin] "
+	}
+	
+	"Enabled"
+	{
+		"en"		"You have enabled the display of players information."
+		"ru"		"Вы включили отображение информации об игроках."
+		"chi"		"您已经启用了玩家信息的显示。"
+	}
+	
+	"Disabled"
+	{
+		"en"		"You have disabled the display of players information."
+		"ru"		"Вы выключили отображение информации об игроках."
+		"chi"		"您已经禁用了玩家信息的显示。"
+	}
+}

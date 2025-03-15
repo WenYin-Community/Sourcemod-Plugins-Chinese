@@ -1,0 +1,95 @@
+"Phrases"
+{
+	"Suicide"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} is terrible at life!"
+		"chi"	"{1} 的生活太糟糕了！"
+	}
+	"Gravity"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} needs to watch his step!"
+		"chi"	"{1} 需要注意脚下！"
+	}
+	"Payload Death"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} likes the cart a little too much!"
+		"chi"	"{1} 太喜欢推车了！"
+	}
+	"Drown"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} can't swim, lol."
+		"chi"	"{1} 不会游泳，蛤蛤。"
+		
+	}
+	"Other"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} somehow died, oh my!"
+		"chi"	"{1} 不知怎么死了，天哪！"
+	}
+	"Lumberyard Pit"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} has achieved glory in the Victory Pit of Win!"
+		"chi"	"{1} 在胜利的胜利坑中获得了荣耀！"
+	}
+	"Lumberyard Pit Kills"
+	{
+		"#format"	"{1:d}"
+		"en"	"The Victory Pit of Win has {1} kills!"
+		"chi"	"胜利坑的胜利被 {1} 击杀！"
+	}
+	"Sawmill Sawblades"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} has sacrificed himself to the saw!"
+		"chi"	"{1} 为电锯牺牲了自己！"
+	}
+	"Sawmill Sawblade Kills"
+	{
+		"#format"	"{1:d}"
+		"en"	"The saw blade has {1} kills!"
+		"chi"	"电锯击杀了 {1}！"
+	}
+	"Trains"
+	{
+		"#format"	"{1:s}"
+		"en"	"{1} just got owned by the train!"
+		"chi"	"{1} 被火车撞死了！"
+	}
+	"Train Kills"
+	{
+		"#format"	"{1:d}"
+		"en"	"The train has {1} kills!"
+		"chi"	"火车击杀了 {1}!"
+	}
+	"Train First Kill"
+	{
+		"en"	"The train has a thirst for blood!"
+		"chi"	"火车获得了一血！"
+	}
+	"Train Double Kill"
+	{
+		"en"	"The train got a DOUBLE KILL!"
+		"chi"	"火车获得了双杀！"
+	}
+	"Train Triple Kill"
+	{
+		"en"	"The train got a TRIPLE KILL!"
+		"chi"	"火车获得了三杀！"
+	}
+	"Train Quadruple Kill"
+	{
+		"en"	"The train got a QUADRUPLE KILL!"
+		"chi"	"火车获得了四杀！"
+	}
+	"Train Multi Kill"
+	{
+		"en"	"The train got an EPIC MULTIKILL!"
+		"chi"	"火车获得了史诗级的多杀!"
+	}
+}
